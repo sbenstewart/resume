@@ -23,8 +23,7 @@ The frustrated Ben Stewart created this using the follows.
 The tech stuff used are as follows:
 
 1. [MS WORD](https://en.wikipedia.org/wiki/Microsoft_Word) to make it hard for the open source world.
-2. [QR CODE GENERATOR](https://www.the-qrcode-generator.com/) for doing exactly what the app name states.
-3. [GITUHB](https://github.com/sbenstewart/resume) to host the resume and also serve as my backup.
+2. [GITUHB](https://github.com/sbenstewart/resume) to host the resume and also serve as my backup.
 
 ## Contributing
 To contribute, follow these steps:
